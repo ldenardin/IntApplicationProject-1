@@ -22,7 +22,7 @@ Nesta etapa, o foco está na:
 - identificação das necessidades dos usuários
 - elicitação inicial dos requisitos (funcionais, não funcionais e restrições)
 - modelagem dos casos de uso
-- organização inicial do projeto no GitHub Classroom
+- organização inicial do projeto no _GitHub Classroom_
 
 Entretanto, a proposta deverá considerar desde o início as tecnologias obrigatórias da disciplina, pois elas estabelecem limites para a solução que será projetada e desenvolvida nas etapas seguintes.
 
