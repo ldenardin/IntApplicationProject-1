@@ -17,7 +17,7 @@ Recomenda-se que a introdução seja revisada após a elaboração das demais se
 
 A introdução não deverá apresentar uma descrição excessivamente técnica. Informações detalhadas sobre classes, banco de dados, código ou organização interna do sistema serão apresentadas nas etapas posteriores.
 
-<div style="color:#013220;">
+<font color="#013220">
  
 ## Exemplo de introdução para o projeto EcoDescarte de Chique-Chique de Doer / RN 
 
@@ -29,7 +29,7 @@ Diante desse contexto, o projeto EcoDescarte propõe o desenvolvimento de uma ap
 
 O projeto está relacionado principalmente aos ODS 11 — Cidades e Comunidades Sustentáveis — e 12 — Consumo e Produção Responsáveis, por incentivar o descarte adequado, a logística reversa e a redução dos impactos ambientais provocados pelos resíduos urbanos.
 
-</div>
+</font
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
