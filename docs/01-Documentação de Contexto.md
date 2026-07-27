@@ -1,6 +1,23 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+A introdução deverá apresentar uma visão geral do projeto, permitindo que uma pessoa que ainda não conhece o trabalho compreenda:
+
+- o contexto em que o projeto está inserido;
+- o problema que será investigado;
+- o objetivo geral da solução;
+- a justificativa para sua realização;
+- o público que poderá ser beneficiado;
+- a natureza da solução tecnológica proposta.
+
+A introdução deverá ser escrita em formato de texto contínuo e funcionar como uma apresentação resumida de todo o projeto.
+
+Os detalhes de cada elemento serão aprofundados nas seções posteriores.
+
+Recomenda-se que a introdução seja revisada após a elaboração das demais seções da Etapa 01. Dessa maneira, a equipe poderá verificar se existe coerência entre o problema, os objetivos, o público-alvo, os requisitos e a proposta de solução.
+
+A introdução não deverá apresentar uma descrição excessivamente técnica. Informações detalhadas sobre classes, banco de dados, código ou organização interna do sistema serão apresentadas nas etapas posteriores.
+
+
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
