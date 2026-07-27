@@ -33,7 +33,7 @@ Durante o desenvolvimento do projeto, todas as equipes deverão utilizar as segu
 
 2.1 _GitHub Classroom_
 
-O GitHub Classroom será utilizado para:
+O _GitHub Classroom_ será utilizado para:
 - disponibilização do repositório da equipe;
 - armazenamento do código-fonte;
 - armazenamento dos documentos e diagramas;
