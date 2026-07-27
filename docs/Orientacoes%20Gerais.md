@@ -53,7 +53,8 @@ Poderão ser utilizadas, conforme orientação da disciplina, ferramentas como:
 - <a href="https://app.diagrams.net/"> Draw.io
 - <a href="https://lucid.co/pt/lucidchart"> LucidChart
 - <a href="https://astah.net/"> Astah
-E outras ferramentas previamente autorizadas pelo professor que lhe acompanha semanalmente.
+  
+E outras ferramentas, desde que, previamente autorizadas pelo(a) professor(a) que lhe acompanha semanalmente.
 
 Os arquivos editáveis dos diagramas deverão ser mantidos no repositório, juntamente com suas versões exportadas em formato de imagem ou PDF.
 
