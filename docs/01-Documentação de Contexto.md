@@ -17,8 +17,7 @@ Recomenda-se que a introdução seja revisada após a elaboração das demais se
 
 A introdução não deverá apresentar uma descrição excessivamente técnica. Informações detalhadas sobre classes, banco de dados, código ou organização interna do sistema serão apresentadas nas etapas posteriores.
 
-<div style="color: #00008B;">
-
+<div style="color: #2e6f40;">
 ## Exemplo de introdução para o projeto EcoDescarte de Chique-Chique de Doer / RN
 
 O crescimento do consumo de equipamentos eletrônicos tem provocado o aumento da quantidade de aparelhos descartados, como celulares, computadores, monitores, eletrodomésticos e equipamentos de pequeno porte. Quando esses materiais são descartados juntamente com os resíduos comuns ou encaminhados a locais inadequados, podem provocar impactos ambientais e dificultar o reaproveitamento de componentes e matérias-primas. 
