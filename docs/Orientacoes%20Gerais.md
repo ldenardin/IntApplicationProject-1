@@ -3,7 +3,7 @@
 ### 1. Visão geral da etapa 01
 
 A Etapa 01 tem como finalidade compreender o problema que será investigado e apresentar uma proposta inicial de solução de software. Antes de iniciar a modelagem detalhada ou o desenvolvimento da aplicação, a equipe deverá conhecer o contexto, identificar as pessoas afetadas pelo problema, levantar suas necessidades e delimitar claramente o que será contemplado pelo projeto.
-Ao final desta etapa, espera-se que o grupo consiga responder às seguintes questões:
+Ao final desta etapa, espera-se que o grupo consiga responder, no mínimo, às seguintes questões:
 
 - Qual problema real será enfrentado?
 - Em qual contexto esse problema ocorre?
@@ -12,8 +12,7 @@ Ao final desta etapa, espera-se que o grupo consiga responder às seguintes ques
 - Como o projeto se relaciona com os Objetivos de Desenvolvimento Sustentável — ODS?
 - Quais necessidades dos usuários deverão ser atendidas?
 - Quais funcionalidades deverão compor a solução?
-- Quais características de qualidade deverão ser observadas?
-- Quais limites tecnológicos, acadêmicos e operacionais condicionam o projeto?
+
 - Como as necessidades identificadas serão representadas por meio de histórias de usuários, requisitos e casos de uso?
 
 Nesta etapa, o foco está na:
