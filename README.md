@@ -8,6 +8,8 @@
 
 **Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.**
 
+<a href="docs/Orientacoes Gerais.md"> Orientações gerais - LEIA COM ATENÇÃO </a>  
+
 ## Integrantes
 
 * Nome completo do aluno 1
@@ -32,9 +34,9 @@
 
 # Documentação
 
+
+
 <ol>
-<a href="docs/Orientacoes Gerais.md"> Orientações gerais - LEIA COM ATENÇÃO </a>  
- 
 <li><a href="docs/01-Documentação de Contexto.md"> Documentação de Contexto</a></li>
 <li><a href="docs/02-Especificação do Projeto.md"> Especificação do Projeto</a></li>
 <li><a href="docs/03-Metodologia.md"> Metodologia</a></li>
