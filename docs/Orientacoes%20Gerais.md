@@ -32,7 +32,7 @@ Na Etapa 01 deverão ser desenvolvidos todos os itens descritos à seção <a hr
 
 Durante o desenvolvimento do projeto, todas as equipes deverão utilizar as seguintes ferramentas e tecnologias:
 
-2.1 _GitHub Classroom_
+#### 2.1 _GitHub Classroom_
 
 O _GitHub Classroom_ será utilizado para:
 - disponibilização do repositório da equipe
@@ -45,7 +45,7 @@ O _GitHub Classroom_ será utilizado para:
 
 O histórico do repositório deverá demonstrar a **participação efetiva** dos integrantes da equipe. Portanto, é altamente recomendado que cada estudante realize os _commits_ relacionados às suas contribuições a cada etapa.
 
-2.2 Ferramentas de modelagem
+#### 2.2 Ferramentas de modelagem
 
 As equipes deverão utilizar ferramentas adequadas para a elaboração dos diagramas e demais artefatos de modelagem.
 Poderão ser utilizadas, conforme orientação da disciplina, ferramentas como:
@@ -57,7 +57,7 @@ E outras ferramentas, desde que, previamente autorizadas pelo(a) professor(a) qu
 
 Os arquivos editáveis dos diagramas deverão ser mantidos no repositório, juntamente com suas versões exportadas em formato de imagem ou PDF.
 
-2.3 _Back-end_
+#### 2.3 _Back-end_
 
 O back-end da aplicação deverá ser desenvolvido no ecossistema Microsoft .NET, utilizando, obrigatoriamente:
 - linguagem C#
@@ -67,7 +67,7 @@ O back-end da aplicação deverá ser desenvolvido no ecossistema Microsoft .NET
 
 É altamente recomendado que a versão do _framework_ e demais configurações técnicas sejam aquelas apresentadas no microfundamento de Desenvolvimento Web Back-end.
 
-2.4 _Front-end_
+#### 2.4 _Front-end_
 
 O _front-end_ deverá ser desenvolvido utilizando:
 - HTML
