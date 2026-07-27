@@ -1,0 +1,134 @@
+# DETALHAMENTO DE CADA ETAPA
+
+## ETAPA 01 — CONCEPÇÃO E PROPOSTA DE SOLUÇÃO
+
+# 1. Visão geral da etapa 01
+A Etapa 01 tem como finalidade compreender o problema que será investigado e apresentar uma proposta inicial de solução de software. Antes de iniciar a modelagem detalhada ou o desenvolvimento da aplicação, a equipe deverá conhecer o contexto, identificar as pessoas afetadas pelo problema, levantar suas necessidades e delimitar claramente o que será contemplado pelo projeto.
+Ao final desta etapa, espera-se que o grupo consiga responder às seguintes questões:
+
+- Qual problema real será enfrentado?
+- Em qual contexto esse problema ocorre?
+- Quem é afetado por ele?
+- Quais evidências demonstram que esse problema é relevante?
+- Como o projeto se relaciona com os Objetivos de Desenvolvimento Sustentável — ODS?
+- Quais necessidades dos usuários deverão ser atendidas?
+- Quais funcionalidades deverão compor a solução?
+- Quais características de qualidade deverão ser observadas?
+- Quais limites tecnológicos, acadêmicos e operacionais condicionam o projeto?
+- Como as necessidades identificadas serão representadas por meio de histórias de usuários, requisitos e casos de uso?
+
+Nesta etapa, o foco está na:
+- compreensão do problema;
+- definição do público-alvo;
+- delimitação do escopo;
+- identificação das necessidades dos usuários;
+- elicitação inicial dos requisitos (funcionais, não funcionais e restrições);
+- modelagem dos casos de uso;
+- organização inicial do projeto no GitHub Classroom.
+
+Entretanto, a proposta deverá considerar desde o início as tecnologias obrigatórias da disciplina, pois elas estabelecem limites para a solução que será projetada e desenvolvida nas etapas seguintes.
+
+# 2. Tecnologias e ferramentas obrigatórias do projeto
+
+Durante o desenvolvimento do projeto, todas as equipes deverão utilizar as seguintes ferramentas e tecnologias:
+
+2.1 _GitHub Classroom_
+
+O GitHub Classroom será utilizado para:
+- disponibilização do repositório da equipe;
+- armazenamento do código-fonte;
+- armazenamento dos documentos e diagramas;
+- acompanhamento da evolução do projeto;
+- registro das contribuições dos integrantes;
+- controle de versões;
+- gerenciamento de alterações;
+- entrega das etapas da disciplina.
+
+O histórico do repositório deverá demonstrar a **participação efetiva** dos integrantes da equipe. Portanto, é altamente recomendado que cada estudante realize os _commits_ relacionados às suas contribuições a cada etapa.
+
+2.2 Ferramentas de modelagem
+
+As equipes deverão utilizar ferramentas adequadas para a elaboração dos diagramas e demais artefatos de modelagem.
+Poderão ser utilizadas, conforme orientação da disciplina, ferramentas como:
+- <a href="https://app.diagrams.net/"> Draw.io
+- Lucidchart;
+- StarUML;
+- Visual Paradigm;
+- PlantUML;
+outras ferramentas previamente autorizadas pela professora.
+
+Os arquivos editáveis dos diagramas deverão ser mantidos no repositório, juntamente com suas versões exportadas em formato de imagem ou PDF.
+
+2.3 Back-end
+
+O back-end da aplicação deverá ser desenvolvido no ecossistema Microsoft .NET, utilizando:
+
+linguagem C#;
+Visual Studio;
+framework ASP.NET Core;
+padrão arquitetural MVC — Model, View e Controller.
+
+A aplicação deverá respeitar a separação de responsabilidades proposta pelo MVC:
+
+Model: representa os dados, as entidades e as regras de negócio;
+View: representa a interface apresentada ao usuário;
+Controller: recebe as requisições, coordena as ações e estabelece a comunicação entre Models e Views.
+
+A versão do framework e demais configurações técnicas serão aquelas definidas pela disciplina.
+
+2.4 Front-end
+
+O front-end deverá ser desenvolvido utilizando:
+
+HTML;
+CSS;
+JavaScript;
+Bootstrap.
+
+No contexto do ASP.NET Core MVC, as páginas poderão ser implementadas nas Views da aplicação, normalmente em arquivos com extensão .cshtml, contendo HTML integrado aos recursos disponibilizados pelo framework.
+
+O Bootstrap deverá apoiar a construção de uma interface responsiva e consistente, mas não substitui a necessidade de:
+
+organização adequada do HTML;
+personalização por meio de CSS;
+desenvolvimento de comportamentos com JavaScript;
+aplicação de princípios de usabilidade e acessibilidade.
+3. Exemplo condutor utilizado nesta orientação
+
+Para auxiliar na compreensão dos itens, será utilizado o projeto fictício denominado EcoDescarte.
+
+3.1 Visão geral do exemplo
+
+O EcoDescarte é uma proposta de aplicação web responsiva destinada a apoiar o descarte ambientalmente adequado de resíduos eletroeletrônicos de uso doméstico.
+
+O problema está relacionado à dificuldade de muitas pessoas em encontrar informações confiáveis e atualizadas sobre:
+
+onde descartar equipamentos eletrônicos;
+quais materiais são aceitos em cada ponto;
+quando os pontos estão abertos;
+como preparar o equipamento para o descarte;
+como solicitar ou acompanhar uma entrega;
+qual é o destino dado ao material entregue.
+
+Para fins didáticos, o projeto será contextualizado no município fictício de Vale Verde.
+
+Embora o município seja fictício, o problema ambiental, a legislação, os dados e os Objetivos de Desenvolvimento Sustentável relacionados ao projeto são reais.
+
+A solução será desenvolvida como uma aplicação web responsiva utilizando:
+
+ASP.NET Core MVC;
+C#;
+HTML;
+CSS;
+JavaScript;
+Bootstrap;
+GitHub Classroom para controle de versão e acompanhamento do projeto.
+
+A aplicação deverá permitir a participação de:
+
+cidadãos;
+responsáveis por pontos de recebimento;
+cooperativas ou empresas recicladoras;
+gestores públicos municipais.
+
+O exemplo foi delimitado para representar um projeto acadêmico viável. O sistema não realizará fisicamente a coleta, o transporte ou a reciclagem dos materiais. Ele apoiará a organização das informações e o registro das atividades realizadas pelas organizações responsáveis.
