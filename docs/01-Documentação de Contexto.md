@@ -17,9 +17,9 @@ Recomenda-se que a introdução seja revisada após a elaboração das demais se
 
 A introdução não deverá apresentar uma descrição excessivamente técnica. Informações detalhadas sobre classes, banco de dados, código ou organização interna do sistema serão apresentadas nas etapas posteriores.
 
-<font color="#013220">
- 
-## Exemplo de introdução para o projeto EcoDescarte de Chique-Chique de Doer / RN 
+<font color="#013220"> 
+Exemplo de introdução para o projeto EcoDescarte de Chique-Chique de Doer / RN 
+</font
 
 O crescimento do consumo de equipamentos eletrônicos tem provocado o aumento da quantidade de aparelhos descartados, como celulares, computadores, monitores, eletrodomésticos e equipamentos de pequeno porte. Quando esses materiais são descartados juntamente com os resíduos comuns ou encaminhados a locais inadequados, podem provocar impactos ambientais e dificultar o reaproveitamento de componentes e matérias-primas. 
 
@@ -29,7 +29,7 @@ Diante desse contexto, o projeto EcoDescarte propõe o desenvolvimento de uma ap
 
 O projeto está relacionado principalmente aos ODS 11 — Cidades e Comunidades Sustentáveis — e 12 — Consumo e Produção Responsáveis, por incentivar o descarte adequado, a logística reversa e a redução dos impactos ambientais provocados pelos resíduos urbanos.
 
-</font
+
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
