@@ -1,8 +1,7 @@
-# DETALHAMENTO DE CADA ETAPA
-
-## ETAPA 01 — CONCEPÇÃO E PROPOSTA DE SOLUÇÃO
+## Detalhamento ETAPA 01 — CONCEPÇÃO E PROPOSTA DE SOLUÇÃO
 
 # 1. Visão geral da etapa 01
+
 A Etapa 01 tem como finalidade compreender o problema que será investigado e apresentar uma proposta inicial de solução de software. Antes de iniciar a modelagem detalhada ou o desenvolvimento da aplicação, a equipe deverá conhecer o contexto, identificar as pessoas afetadas pelo problema, levantar suas necessidades e delimitar claramente o que será contemplado pelo projeto.
 Ao final desta etapa, espera-se que o grupo consiga responder às seguintes questões:
 
