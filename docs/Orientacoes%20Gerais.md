@@ -59,11 +59,11 @@ Os arquivos editáveis dos diagramas deverão ser mantidos no repositório, junt
 
 #### 2.3 _Back-end_
 
-O back-end da aplicação deverá ser desenvolvido no ecossistema Microsoft .NET, utilizando, obrigatoriamente:
-- linguagem C#
+O _back-end_ da aplicação deverá ser desenvolvido no ecossistema Microsoft.NET, utilizando, obrigatoriamente:
+- Linguagem C#
 - Visual Studio
-- Framework ASP.NET Core
-- padrão arquitetural MVC (_Model_, _View_ e _Controller_).
+- _Framework_ ASP.NET Core
+- Padrão arquitetural MVC (_Model_, _View_ e _Controller_).
 
 É altamente recomendado que a versão do _framework_ e demais configurações técnicas sejam aquelas apresentadas no microfundamento de Desenvolvimento Web Back-end.
 
