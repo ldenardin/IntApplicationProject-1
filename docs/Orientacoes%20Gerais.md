@@ -27,7 +27,7 @@ Nesta etapa, o foco está na:
 
 Entretanto, a proposta deverá considerar desde o início as tecnologias obrigatórias da disciplina, pois elas estabelecem limites para a solução que será projetada e desenvolvida nas etapas seguintes.
 
-Na Etapa 01 deverão ser desenvolvidos todos os itens descritos à seção <a href="docs/01-Documentação de Contexto.md"> Documentação de Contexto</a> e à seção <a href="docs/02-Especificação do Projeto.md"> Especificação do Projeto</a>
+Na Etapa 01 deverão ser desenvolvidos todos os itens descritos à seção <a href="01-Documentação de Contexto.md"> Documentação de Contexto</a> e à seção <a href="02-Especificação do Projeto.md"> Especificação do Projeto</a>
 
 ### 2. Tecnologias e ferramentas obrigatórias do projeto
 
