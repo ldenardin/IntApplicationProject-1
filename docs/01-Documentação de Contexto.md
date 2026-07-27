@@ -17,6 +17,17 @@ Recomenda-se que a introdução seja revisada após a elaboração das demais se
 
 A introdução não deverá apresentar uma descrição excessivamente técnica. Informações detalhadas sobre classes, banco de dados, código ou organização interna do sistema serão apresentadas nas etapas posteriores.
 
+## Exemplo de introdução para o projeto EcoDescarte de Chique-Chique de Doer / RN
+
+O crescimento do consumo de equipamentos eletrônicos tem provocado o aumento da quantidade de aparelhos descartados, como celulares, computadores, monitores, eletrodomésticos e equipamentos de pequeno porte. Quando esses materiais são descartados juntamente com os resíduos comuns ou encaminhados a locais inadequados, podem provocar impactos ambientais e dificultar o reaproveitamento de componentes e matérias-primas. 
+
+Além dos impactos ambientais, parte da população encontra dificuldades para identificar locais confiáveis para realizar o descarte. Informações sobre endereços, horários de funcionamento e tipos de equipamentos recebidos costumam estar dispersas em diferentes páginas, redes sociais ou canais institucionais.
+
+Diante desse contexto, o projeto EcoDescarte propõe o desenvolvimento de uma aplicação web responsiva para apoiar os cidadãos na localização de pontos de recebimento de resíduos eletroeletrônicos. A solução também deverá permitir que os responsáveis pelos pontos mantenham suas informações atualizadas e que cooperativas, recicladores e gestores públicos acompanhem registros relacionados às entregas e coletas realizadas.
+
+O projeto está relacionado principalmente aos ODS 11 — Cidades e Comunidades Sustentáveis — e 12 — Consumo e Produção Responsáveis, por incentivar o descarte adequado, a logística reversa e a redução dos impactos ambientais provocados pelos resíduos urbanos.
+
+A solução será desenvolvida utilizando ASP.NET Core MVC e linguagem C# no back-end, além de HTML, CSS, JavaScript e Bootstrap na construção da interface. O código-fonte, a documentação e os arquivos de modelagem serão mantidos no repositório da equipe no GitHub Classroom.
 
 
 ## Problema
