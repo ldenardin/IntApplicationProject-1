@@ -8,7 +8,7 @@
 
 **Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.**
 
-<a href="Orientacoes%20Gerais.md"> Orientações gerais - LEIA COM ATENÇÃO </a>  
+<a href="/docs/Orientacoes%2520Gerais.md"> Orientações gerais - LEIA COM ATENÇÃO </a>  
 
 ## Integrantes
 
@@ -33,7 +33,6 @@
 * Senha: senha_teste
 
 # Documentação
-
 
 
 <ol>
