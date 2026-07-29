@@ -1,4 +1,4 @@
-#Projeto EcoDescarte
+# Projeto EcoDescarte
 
 ## Introdução
 
@@ -24,25 +24,17 @@ Como consequência, equipamentos sem uso podem permanecer armazenados nas resid�
 
 **Objetivo geral**
 
-Desenvolver uma aplicação _web_ responsiva que facilite a localização de pontos de recebimento de resíduos eletroeletrônicos e apoie o registro e o acompanhamento das entregas e coletas realizadas no município de Vale Verde.
+Desenvolver uma aplicação web responsiva que facilite a localização de pontos de recebimento de resíduos eletroeletrônicos e apoie o registro e o acompanhamento das entregas e coletas realizadas no município de Chique-Chique do Sul.
 
 **Objetivos específicos**
 
-- Investigar as dificuldades enfrentadas pelos cidadãos para localizar informações sobre o descarte de resíduos eletroeletrônicos;
+- Identificar as principais dificuldades e necessidades dos cidadãos, dos responsáveis pelos pontos de recebimento, das cooperativas ou empresas recicladoras e dos gestores públicos relacionadas ao descarte de resíduos eletroeletrônicos;
   
-- Identificar as necessidades dos responsáveis pelos pontos de recebimento, das cooperativas ou empresas recicladoras e dos gestores públicos;
+- Centralizar informações confiáveis e atualizadas sobre os pontos de recebimento, incluindo localização, horários de funcionamento e categorias de equipamentos aceitas;
   
-- Modelar os processos e as interações necessárias para o funcionamento da solução;
-  
-- Centralizar informações sobre localização, horário de funcionamento e categorias de equipamentos aceitas nos pontos cadastrados;
-  
-- Permitir o registro de entregas, solicitações de retirada, coletas realizadas e destinação dos resíduos;
-  
-- Disponibilizar indicadores que auxiliem o acompanhamento das quantidades e categorias de resíduos registradas;
-  
-- Implementar a aplicação utilizando a arquitetura MVC e as tecnologias definidas pela disciplina;
-  
-- Avaliar a usabilidade, a acessibilidade e o funcionamento da solução com representantes do público-alvo;
+- Apoiar o registro e o acompanhamento das entregas, solicitações de retirada, coletas e destinações dos resíduos eletroeletrônicos;
+
+- Avaliar se a solução desenvolvida atende às necessidades dos usuários e facilita o acesso às informações e o acompanhamento do processo de descarte.
   
 
 
