@@ -9,7 +9,7 @@ Ao final desta etapa, espera-se que o grupo consiga responder, no mínimo, às s
 - Em qual contexto esse problema ocorre?
 - Quem é afetado por ele?
 - Quais evidências demonstram que esse problema é relevante?
-- Como o projeto se relaciona com os Objetivos de Desenvolvimento Sustentável — ODS?
+- Como o projeto se relaciona com os <a href="https://brasil.un.org/pt-br/sdgs"> Objetivos de Desenvolvimento Sustentável (ODS) </a>? 
 - Quais necessidades dos usuários deverão ser atendidas?
 - Quais funcionalidades deverão compor a solução?
 
