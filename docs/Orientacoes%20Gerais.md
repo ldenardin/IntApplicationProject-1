@@ -12,9 +12,8 @@ Ao final desta etapa, espera-se que o grupo consiga responder, no mínimo, às s
 - Como o projeto se relaciona com os <a href="https://brasil.un.org/pt-br/sdgs"> Objetivos de Desenvolvimento Sustentável (ODS) </a>? 
 - Quais necessidades dos usuários deverão ser atendidas?
 - Quais funcionalidades deverão compor a solução?
-
 - Como as necessidades identificadas serão representadas por meio de histórias de usuários, requisitos e casos de uso?
-
+  
 Nesta etapa, o foco está na:
 - compreensão do problema
 - definição do público-alvo
