@@ -8,7 +8,7 @@
 
 **Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.**
 
-<a href="docs/Orientacoes Gerais.md"> Orientações gerais - LEIA COM ATENÇÃO </a>  
+<a href="Orientacoes%20Gerais.md"> Orientações gerais - LEIA COM ATENÇÃO </a>  
 
 ## Integrantes
 
