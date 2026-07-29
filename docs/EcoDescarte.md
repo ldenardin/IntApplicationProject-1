@@ -18,7 +18,7 @@ Os moradores do município de Chique-Chique do Sul enfrentam dificuldades para e
 
 Os responsáveis pelos pontos de recebimento também encontram dificuldades para divulgar alterações de horário, informar indisponibilidades temporárias e solicitar a retirada dos materiais acumulados. Além disso, cooperativas, recicladores e gestores públicos não dispõem de uma visão integrada sobre as entregas, as retiradas realizadas e as categorias de resíduos recebidas. Essa falta de integração dificulta o acompanhamento dos resultados das ações de logística reversa e a produção de indicadores sobre o descarte de resíduos eletrônicos no município.
 
-Como consequência, equipamentos sem uso podem permanecer armazenados nas residências ou ser descartados juntamente com resíduos comuns, deixando de ser encaminhados para reaproveitamento, reciclagem ou destinação ambientalmente adequada.
+Como consequência, equipamentos sem uso podem permanecer armazenados nas residências ou ser descartados juntamente com resíduos comuns, deixando de serem encaminhados para reaproveitamento, reciclagem ou destinação ambientalmente adequada.
 
 ## Objetivos
 
