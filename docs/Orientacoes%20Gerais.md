@@ -95,5 +95,3 @@ O **EcoDescarte** é uma proposta de aplicação _web_ interativa responsiva des
 Para fins didáticos, o projeto será contextualizado no município fictício de Chique-Chique do Sul/RN.
 Embora o município seja fictício, o problema ambiental, a legislação, os dados e os Objetivos de Desenvolvimento Sustentável relacionados ao projeto são reais.
 O exemplo foi delimitado para representar um projeto acadêmico viável. O sistema não realizará fisicamente a coleta, o transporte ou a reciclagem dos materiais. Ele apoiará a organização das informações e o registro das atividades realizadas pelas organizações responsáveis.
-
-### 3. Exemplo condutor utilizado nesta orientação
